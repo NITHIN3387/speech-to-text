@@ -6,7 +6,7 @@ git clone https://github.com//NITHIN3387/speech-to-text.git
 cd speech-to-text
 ```
 
-🎤 Running the Backend:
+### 🎤 Running the Backend:
 1️⃣ Go to backend directory
 ```bash
 cd backend
@@ -30,7 +30,7 @@ python app.py
 The server will start at: http://127.0.0.1:4000
 ```
 
-🎤 Running the Frontend
+### 🎤 Running the Frontend
 1️⃣ Go to frontend directory
 ```bash
 cd frontend
