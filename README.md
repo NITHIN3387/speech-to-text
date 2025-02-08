@@ -16,7 +16,7 @@ cd backend
 
 2️⃣ Create a Virtual Environment
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate     # On Windows
 ```
@@ -29,7 +29,6 @@ pip install -r requirements.txt
 4️⃣ Run the Flask Server
 ```bash
 python app.py
-The server will start at: http://127.0.0.1:4000
 ```
 
 ---
