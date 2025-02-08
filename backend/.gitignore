@@ -1,0 +1,31 @@
+# Ignore the virtual environment directories
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Dependency files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables
+.env
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
